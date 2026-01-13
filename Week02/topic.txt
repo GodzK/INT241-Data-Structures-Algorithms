@@ -1,5 +1,5 @@
 ARRAY AND LINKED LIST
-=====================
+======================
 ARRAY
 1. Definition of Array
 2. Memory representation
