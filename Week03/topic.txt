@@ -1,0 +1,10 @@
+BASIC ALGORITHM CONCEPT
+=====================
+1. Definition of Algorithm
+2. Characteristics of good algorithm
+3. Algorithm design steps
+4. Time Complexity
+   - Big-O notation
+   - Best, Average, Worst case
+5. Space Complexity
+6. Complexity comparison examples

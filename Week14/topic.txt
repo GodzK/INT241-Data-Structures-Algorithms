@@ -1,0 +1,9 @@
+GRAPH ALGORITHM PART 2
+=====================
+1. Shortest path algorithms
+   - Dijkstra
+   - Bellman-Ford
+2. Minimum Spanning Tree (MST)
+   - Prim's Algorithm
+   - Kruskal's Algorithm
+3. Applications

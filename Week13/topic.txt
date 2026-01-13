@@ -1,0 +1,7 @@
+GRAPH ALGORITHM PART 1
+=====================
+1. Graph traversal
+2. Breadth First Search (BFS)
+3. Depth First Search (DFS)
+4. Applications of BFS and DFS
+5. Time complexity

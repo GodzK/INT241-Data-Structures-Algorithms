@@ -1,0 +1,27 @@
+LIST, STACK, QUEUE
+=====================
+LIST
+1. Definition of List
+2. Array-based vs Linked List-based
+
+STACK
+1. Definition of Stack (LIFO)
+2. Stack operations:
+   - push
+   - pop
+   - peek
+3. Stack implementation
+4. Applications:
+   - Function call
+   - Expression evaluation
+
+QUEUE
+1. Definition of Queue (FIFO)
+2. Queue operations:
+   - enqueue
+   - dequeue
+3. Types of Queue:
+   - Simple Queue
+   - Circular Queue
+   - Deque
+4. Applications

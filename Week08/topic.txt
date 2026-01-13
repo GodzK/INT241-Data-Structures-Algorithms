@@ -1,0 +1,9 @@
+BALANCED TREE
+=====================
+1. Problem of unbalanced tree
+2. AVL Tree
+   - Rotation
+   - Balance factor
+3. Red-Black Tree
+4. Comparison of balanced trees
+5. Applications

@@ -1,0 +1,10 @@
+DYNAMIC PROGRAMMING
+=====================
+1. Definition of Dynamic Programming
+2. Overlapping subproblems
+3. Optimal substructure
+4. Top-down vs Bottom-up
+5. Examples:
+   - Fibonacci
+   - Knapsack
+   - Longest Common Subsequence

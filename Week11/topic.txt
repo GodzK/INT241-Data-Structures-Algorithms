@@ -1,0 +1,10 @@
+GREEDY ALGORITHM
+=====================
+1. Definition of Greedy Algorithm
+2. Characteristics
+3. Greedy strategy
+4. Examples:
+   - Coin change
+   - Activity selection
+   - Huffman coding
+5. Advantages and limitations

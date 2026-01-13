@@ -1,0 +1,27 @@
+ARRAY AND LINKED LIST
+=====================
+ARRAY
+1. Definition of Array
+2. Memory representation
+3. One-dimensional and multi-dimensional array
+4. Operations:
+   - Access
+   - Insertion
+   - Deletion
+   - Traversal
+5. Time Complexity of array operations
+6. Advantages and disadvantages
+
+LINKED LIST
+1. Definition of Linked List
+2. Types:
+   - Singly Linked List
+   - Doubly Linked List
+   - Circular Linked List
+3. Node structure
+4. Operations:
+   - Insert
+   - Delete
+   - Search
+   - Traverse
+5. Comparison between Array and Linked List

@@ -1,0 +1,15 @@
+TREE
+=====================
+1. Definition of Tree
+2. Terminology:
+   - Root
+   - Parent
+   - Child
+   - Leaf
+3. Binary Tree
+4. Binary Search Tree (BST)
+5. Tree traversal:
+   - Inorder
+   - Preorder
+   - Postorder
+6. Applications of Tree

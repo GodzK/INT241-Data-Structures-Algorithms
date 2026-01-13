@@ -1,0 +1,15 @@
+HEAP AND PRIORITY QUEUE
+=====================
+1. Definition of Heap
+2. Types:
+   - Min Heap
+   - Max Heap
+3. Heap properties
+4. Heap operations:
+   - Insert
+   - Delete
+5. Heapify process
+6. Priority Queue
+7. Applications:
+   - Scheduling
+   - Shortest path algorithm

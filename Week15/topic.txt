@@ -1,0 +1,10 @@
+REVIEW AND PROJECT
+=====================
+1. Review all data structures
+2. Review all algorithms
+3. Problem solving techniques
+4. Sample exam questions
+5. Mini project ideas:
+   - Student management system
+   - Path finding system
+   - Scheduling system

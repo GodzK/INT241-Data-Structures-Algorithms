@@ -1,0 +1,11 @@
+INTRO TO DATA STRUCTURE
+=====================
+1. Definition of Data Structure
+2. Why Data Structure is important
+3. Types of Data Structure
+   - Linear
+   - Non-Linear
+4. Abstract Data Type (ADT)
+5. Relationship between Data Structure and Algorithm
+6. Real-world applications
+7. Overview of course roadmap

@@ -1,0 +1,13 @@
+HASH TABLE (DICTIONARY)
+=====================
+1. Definition of Hash Table
+2. Hash function
+3. Collision handling:
+   - Chaining
+   - Open Addressing
+4. Load factor
+5. Time complexity
+6. Dictionary implementation
+7. Applications:
+   - Database indexing
+   - Caching

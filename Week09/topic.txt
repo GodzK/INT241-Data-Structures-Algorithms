@@ -1,0 +1,14 @@
+GRAPH VS TREE
+=====================
+1. Definition of Graph
+2. Graph vs Tree comparison
+3. Graph terminology:
+   - Vertex
+   - Edge
+4. Types of Graph:
+   - Directed
+   - Undirected
+   - Weighted
+5. Graph representation:
+   - Adjacency Matrix
+   - Adjacency List
