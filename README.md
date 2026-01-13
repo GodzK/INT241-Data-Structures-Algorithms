@@ -144,8 +144,9 @@ The content is organized weekly, covering fundamental concepts, core data struct
 
 ---
 
-## 📚 Note
-This repository is intended for **educational purposes** and serves as a structured guide for mastering Data Structures and Algorithms.
+##  Note
+This repository is intended for **SIT Kmutt 2568 educational purposes** and serves as a structured guide for mastering Data Structures and Algorithms.
 
-Happy Coding! 🚀
+Happy Coding! 
+
 
