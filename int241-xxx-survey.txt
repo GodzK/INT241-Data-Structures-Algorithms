@@ -1,0 +1,36 @@
+1. 67130500028
+2. Full Stack Developer
+3. Python Java Javascript TypeScript Kotlin
+4. มันคือวิธีการที่เราจะ จัดการกับข้อมูลทั้งหลายเพื่อทำให้เกิดประสิทธิภาพสูงสุด
+5. มันคือวิธีการที่เราจะ เเก้ไขปัญหา เเละ จัดการงานต่างๆ
+6. Basic Data Types
+6.1. Javascript  
+let age = 20;           
+let price = 99.99;        
+let name = "INT241";      
+let isStudent = true;     
+let scores = [90, 85, 88]; 
+let user = { id: 1, name: "John" }; 
+
+6.2 Python
+age = 20           # int
+price = 99.99      # float
+name = "INT241"    # str
+scores = [80, 90]  # list
+user = {"id": 1}   # dict
+
+6.3 Java
+int age = 20;
+double price = 99.99;
+String name = "INT241";
+int[] scores = {80, 90};
+
+
+6.4 Kotlin
+val age: Int = 20
+val price: Double = 99.99
+val name: String = "INT241"
+val scores = listOf(80, 90)
+val user = mapOf("id" to 1)
+
+
